@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Bag</h1>
-<h3 align="center">👋 I’m a passionate engineer & fullstack dev driven by curiosity and creativity, building innovative solutions that blend design, functionality, and technology.</h3>
+<h3 align="center">I’m a computer engineering student focused on building strong fundamentals in programming and web development, with a growing interest in creating practical and reliable software solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
